@@ -6,7 +6,7 @@
 
 ## 1. Visão Geral
 
-Permitir que os funcionários instalem software em dispositivos computacionais da empresa abre a organização para exposições desnecessárias. Conflitos entre versões de arquivos ou DLLs que podem impedir a execução de programas, a introdução de malware a partir de software de instalação infectado, software não licenciado que pode ser descoberto durante auditorias e programas que podem ser usados para invadir a rede da organização são exemplos dos problemas que podem ser introduzidos quando os funcionários instalam software em equipamentos da empresa.
+Permitir que os funcionários instalem software em dispositivos computacionais da empresa expõe desnecessariamente a organização. Conflitos entre versões de arquivos ou DLLs que podem impedir a execução de programas, a introdução de malware a partir de software de instalação infectado, software não licenciado que pode ser descoberto durante auditorias e programas que podem ser usados para invadir a rede da organização são exemplos dos problemas que podem ser introduzidos quando os funcionários instalam software em equipamentos da empresa.
 
 ## 2. Propósito
 
