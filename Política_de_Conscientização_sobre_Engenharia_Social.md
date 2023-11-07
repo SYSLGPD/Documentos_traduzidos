@@ -7,7 +7,7 @@
 
 ## 1. Visão Geral
 
-O pacote de Política de Conscientização para Engenharia Social constitui uma compilação de políticas e diretrizes destinadas aos funcionários da <Company Name>. Esta Política faz parte do conjunto de Políticas de Conscientização para Engenharia Social. No intuito de proteger os ativos da <Company Name>, todos os funcionários devem prezar pela integridade e confidencialidade dos recursos da companhia.  
+O pacote de Política de Conscientização para Engenharia Social constitui uma compilação de políticas e diretrizes destinadas aos funcionários da <Nome da Empresa>. Esta Política faz parte do conjunto de Políticas de Conscientização para Engenharia Social. No intuito de proteger os ativos da <Nome da Empresa>, todos os funcionários devem prezar pela integridade e confidencialidade dos recursos da companhia.  
 
 ## 2. Propósito
 
@@ -19,11 +19,11 @@ Esta política tem dois propósitos:
 
 #### 2.1.1 Os funcionários sabem a quem contatar nessas situações.
 
-#### 2.1.2  Os funcionários reconhecem a sua importância para a segurança da <Company Name>. A preservação da integridade dos funcionários representa a principal linha de defesa na proteção de informações sensíveis associadas aos recursos da<Company Name>. 
+#### 2.1.2  Os funcionários reconhecem a sua importância para a segurança da <Nome da Empresa>. A preservação da integridade dos funcionários representa a principal linha de defesa na proteção de informações sensíveis associadas aos recursos da <Nome da Empresa>. 
 
 ### 2.2 Para elaborar procedimentos específicos que devem ser seguidos pelos funcionários para auxiliá-los na tomada da melhor decisão quando:  
 
-#### 2.2.0 Alguém está entrando em contato com o empregado — via telefone, e-mail, fax, presencialmente ou online — com a intenção de adquirir informações confidenciais da <Company Name>.  
+#### 2.2.0 Alguém está entrando em contato com o empregado — via telefone, e-mail, fax, presencialmente ou online — com a intenção de adquirir informações confidenciais da <Nome da Empresa>.  
 
 #### 2.2.1 O funcionário  está sujeito a "pressões", "incentivos" ou "manipulações" para induzi-lo a compartilhar informações sensíveis.
 
@@ -33,25 +33,25 @@ Inclui todos os funcionários da <Nome da Empresa>, incluindo contratados tempor
 
 ## 4. Política
 
-### 4.1 Informações sensíveis sobre a <Company Name> não serão compartilhadas com um indivíduo não autorizado se ele(a) usa palavras ou técnicas como as seguintes:  
+### 4.1 Informações sensíveis sobre a <Nome da Empresa> não serão compartilhadas com um indivíduo não autorizado se ele(a) usa palavras ou técnicas como as seguintes:  
 
-#### 4.1.1 Uma "situação urgente"   
+#### 4.1.1 Uma "situação urgente";   
 
-#### 4.1.2 Uma "senha esquecida" 
+#### 4.1.2 Uma "senha esquecida"; 
 
-#### 4.1.3 Uma "emergência sobre vírus de computador"  
+#### 4.1.3 Uma "emergência sobre vírus de computador";  
 
-#### 4.1.4 Qualquer forma de intimidação vindo de um "superior" 
+#### 4.1.4 Qualquer forma de intimidação vindo de um "superior"; 
 
-#### 4.1.5 Qualquer "citação de nomes" pelo indivíduo que aparenta estar vindo de um funcionário legítimo e autorizado.  
+#### 4.1.5 Qualquer "citação de nomes" pelo indivíduo que aparenta estar vindo de um funcionário legítimo e autorizado;  
 
-#### 4.1.6 O solicitador requer informações que revelarão senhas, modelos, números de séries, marcas ou quantidade de recursos da <Company Name>.  
+#### 4.1.6 O solicitador requer informações que revelarão senhas, modelos, números de séries, marcas ou quantidade de recursos da <Nome da Empresa>;  
 
-#### 4.1.7 As técnicas são utilizadas por uma pessoa desconhecida (não prontamente verificável) via telefone, e-mail, chat online, fax, ou presencialmente. 
+#### 4.1.7 As técnicas são utilizadas por uma pessoa desconhecida (não prontamente verificável) via telefone, e-mail, chat online, fax, ou presencialmente; 
 
-#### 4.1.8 As técnicas são utilizadas por uma pessoas que se declara "afiliada" com a <Company Name>, como um subcontratado. 
+#### 4.1.8 As técnicas são utilizadas por uma pessoas que se declara "afiliada" à <Nome da Empresa>, como um subcontratado; 
 
-#### 4.1.9 As técnicas são utilizadas por uma pessoa que diz ser um(a) repórter para um editor de imprensa conhecido da TV ou empresa de rádio. 
+#### 4.1.9 As técnicas são utilizadas por uma pessoa que diz ser um(a) repórter de um editorial de imprensa conhecido da TV ou empresa de rádio; 
 
 #### 4.1.10 O solicitante está empregando métodos de sedução de ego e vaidade, tais como elogiar a inteligência ou competência do funcionário, ou mesmo proferir saudações inadequadas (partindo de um desconhecido). 
 
@@ -61,11 +61,11 @@ Inclui todos os funcionários da <Nome da Empresa>, incluindo contratados tempor
 
 #### 4.2.2 Caso uma ou mais circunstâncias descritas na seção 4.0 for detectada por uma pessoa descrita na seção 3.0, a identidade do solicitante DEVE ser verificada antes de continuar a conversa ou responder o e-mail, fax ou online. 
 
-#### 4.2.3 Caso a identidade do solicitador descrita na seção 5.1.1 NÃO PODE ser prontamente verificada, a pessoa DEVE entrar em contato imediatamente com seu supervisor ou gerente. 
+#### 4.2.3 Caso a identidade do solicitador descrita na seção 5.1.1 NÃO PUDER ser prontamente verificada, a pessoa DEVE entrar em contato imediatamente com seu supervisor ou gerente. 
 
-#### 4.2.4 Caso o supervisor ou gerente não estiver disponível, essa pessoa DEVE entrar em contato com o pessoal de segurança.
+#### 4.2.4 Caso o supervisor ou gerente não esteja disponível, essa pessoa DEVE entrar em contato com o pessoal de segurança.
 
-#### 4.2.5 Caso a equipe de segurança não estiver disponível, a pessoa descrita na seção 3.0  DEVE imediatamente abandonar a conversa, e-mail, chat online com o solicitante e reportar o episódio ao seu supervisor antes do fim do dia útil. 
+#### 4.2.5 Caso a equipe de segurança não esteja disponível, a pessoa descrita na seção 3.0  DEVE imediatamente abandonar a conversa, e-mail, chat online com o solicitante e reportar o episódio ao seu supervisor antes do fim do dia útil. 
 
 ## 5. Conformidade com a Política
 
@@ -91,4 +91,3 @@ Um funcionário que violar esta política poderá estar sujeito a medidas discip
 |-------------------|------------|-----------------------|
 | Dezembro de 2013 | Equipe de Políticas da SANS | Convertido para o novo formato e retirado de circulação.
 Outubro de 2023 | Equipe de Tradução IFPB | Tradução para português do Brasil.
-Novembro de 2023 | Equipe de Tradução IFPB | Documento Revisado.
