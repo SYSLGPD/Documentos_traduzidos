@@ -61,7 +61,7 @@ Inclui todos os funcionários da <Nome da Empresa>, incluindo contratados tempor
 
 #### 4.2.2 Caso uma ou mais circunstâncias descritas na seção 4.0 for detectada por uma pessoa descrita na seção 3.0, a identidade do solicitante DEVE ser verificada antes de continuar a conversa ou responder o e-mail, fax ou online. 
 
-#### 4.2.3 Caso a identidade do solicitador descrita na seção 5.1.1 NÃO PUDER ser prontamente verificada, a pessoa DEVE entrar em contato imediatamente com seu supervisor ou gerente. 
+#### 4.2.3 Caso a identidade do solicitador descrita na seção 5.1.1 NÃO POSSA ser prontamente verificada, a pessoa DEVE entrar em contato imediatamente com seu supervisor ou gerente. 
 
 #### 4.2.4 Caso o supervisor ou gerente não esteja disponível, essa pessoa DEVE entrar em contato com o pessoal de segurança.
 
