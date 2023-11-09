@@ -10,7 +10,7 @@
 | - Contatos Locais do Suspeito	| [ ]	SIM	[ ] NÃO	| |
 | - Contatos do Suspeito | [ ]	SIM	[ ] NÃO	| |
 | 2. Identificação do Incidente	| [ ]	SIM	[ ] NÃO | |
-| - General Information	| [ ]	SIM	[ ] NÃO	| |
+| - Informações Gerais	| [ ]	SIM	[ ] NÃO	| |
 | - Resumo do Perfil de Propriedade Intelectual	| [ ]	SIM	[ ] NÃO	| | 	
 | - Log de Itens Detectados |	[ ]	SIM	[ ] NÃO | |
 | 3. Contenção do Incidente	| [ ]	SIM	[ ] NÃO | |
