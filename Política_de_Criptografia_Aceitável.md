@@ -1,6 +1,6 @@
 # Política de Criptografia Aceitável
 
-**Aviso de Uso Livre:** Esta política foi criada pela SANS Institute para a comunidade da Internet. Todo ou parte desta política pode ser livremente usada pela sua organização. Não é necessária aprovação prévia. Se desejar contribuir com uma nova política ou uma versão atualizada desta política, envie um e-mail para policy-resources@sans.org.
+**Aviso de Uso Livre:** Esta política foi criada pela SANS Institute para a comunidade da Internet. Toda ou parte desta política pode ser livremente usada pela sua organização. Não é necessária aprovação prévia. Se desejar contribuir com uma nova política ou uma versão atualizada desta política, envie um e-mail para policy-resources@sans.org.
 
 **Status da Última Atualização:** Atualizado em junho de 2014
 
