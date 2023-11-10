@@ -89,5 +89,5 @@ Um funcionário que violar esta política poderá estar sujeito a medidas discip
 
 | Data da Alteração | Responsável | Resumo da Alteração |
 |-------------------|------------|-----------------------|
-| Dezembro de 2013 | Equipe de Políticas da SANS | Convertido para o novo formato e retirado de circulação.
+| Dezembro de 2013 | Equipe de Políticas da SANS | Convertido para o novo formato e arquivado.
 Outubro de 2023 | Equipe de Tradução IFPB | Tradução para português do Brasil.
