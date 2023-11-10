@@ -1,5 +1,9 @@
 # Política de Email
 
+**Status da Última Atualização:** Novembro de 2023
+
+**Aviso de Uso Livre**: Esta política foi criada pela SANS Institute para a co**munidade da Internet. Toda ou parte desta política pode ser livremente usada pela sua organização. Não é necessária aprovação prévia. Se desejar contribuir com uma nova política ou uma versão atualizada desta política, envie um e-mail para policy-resources@sans.org.
+
 ## 1. Visão Geral
 O email é amplamente utilizado em quase todos os vértices da indústria e é muitas vezes o método primário de comunicação e conhecimento dentro de uma organização. Ao mesmo tempo, o uso indevido de emails pode acarretar muitos riscos legais, de privacidade e segurança. Logo, é importante que os usuários entendam o uso adequado das comunicações eletrônicas.
 

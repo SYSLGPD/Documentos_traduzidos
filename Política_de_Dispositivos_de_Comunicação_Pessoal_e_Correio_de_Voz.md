@@ -1,6 +1,6 @@
 # Política de Dispositivos de Comunicação Pessoal e Correio de Voz
 
-**Status da Última Atualização:** Aposentada
+**Status da Última Atualização:** Arquivada
 
 **Aviso de Uso Livre:** Esta política foi criada pela SANS Institute para a comunidade da Internet. Todos ou partes desta política podem ser livremente utilizados pela sua organização. Não é necessária aprovação prévia. Se desejar contribuir com uma nova política ou uma versão atualizada desta política, envie um e-mail para policy-resources@sans.org.
 
@@ -70,6 +70,6 @@ As seguintes definições e termos podem ser encontrados no Glossário SANS loca
 
 | Data da Alteração | Responsável | Resumo da Alteração |
 |-------------------|------------|-----------------------|
-| Dezembro de 2013 | Equipe de Políticas da SANS | Convertida para novo formato e aposentada.
+| Dezembro de 2013 | Equipe de Políticas da SANS | Convertida para novo formato e arquivada.
 Outubro de 2023 | Equipe de Tradução IFPB | Tradução para português do Brasil.
 Novembro de 2023 | Equipe de Tradução IFPB | Documento revisado.

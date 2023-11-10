@@ -2,7 +2,7 @@
 
 **Status da Última Atualização:** Atualizada em Novembro de 2023
 
-**Aviso de Uso Livre:** Esta política foi criada pela SANS Institute para a comunidade da Internet. Todos ou partes desta política podem ser livremente utilizados pela sua organização. Não é necessária aprovação prévia. Se desejar contribuir com uma nova política ou uma versão atualizada desta política, envie um e-mail para policy-resources@sans.org.
+**Aviso de Uso Livre:** Esta política foi criada pela SANS Institute para a comunidade da Internet. Toda ou parte desta política pode ser livremente usada pela sua organização. Não é necessária aprovação prévia. Se desejar contribuir com uma nova política ou uma versão atualizada desta política, envie um e-mail para policy-resources@sans.org.
 
 ## 1. Visão Geral
 
@@ -45,5 +45,6 @@ Nenhum.
 
 | Data da Alteração | Responsável | Resumo da Alteração |
 |-------------------|------------|-----------------------|
-| Dezembro de 2013 | Equipe de Políticas da SANS | Convertida para o novo formato e retirada.
+| Dezembro de 2013 | Equipe de Políticas da SANS | Convertida para o novo formato e arquivada.
 Outubro de 2023 | Equipe de Tradução IFPB | Tradução para português do Brasil.
+Novembro de 2023 | Equipe de Tradução IFPB | Revisão e adapatação português do Brasil.
