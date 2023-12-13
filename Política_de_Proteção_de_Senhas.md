@@ -8,7 +8,7 @@
 
 Senhas são um aspecto crítico da segurança de computadores. Uma senha fraca ou comprometida pode resultar em acesso não autorizado aos nossos dados mais sensíveis e/ou na exploração de nossos recursos. Todos os funcionários, incluindo contratados e fornecedores com acesso aos sistemas da <Nome da Empresa>, são responsáveis por adotar as medidas apropriadas, conforme descrito abaixo, para selecionar e proteger suas senhas.
 
-## 2. Objetivo
+## 2. Propósito
 
 O objetivo desta política é estabelecer um padrão para o uso seguro e proteção de todas as senhas relacionadas ao trabalho.
 

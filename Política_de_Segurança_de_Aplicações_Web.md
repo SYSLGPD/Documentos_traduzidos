@@ -24,24 +24,24 @@ Quaisquer relações dentro de aplicações em vários níveis encontradas duran
 
 ### 4.1 As aplicações web estão sujeitas a avaliações de segurança com base nos seguintes critérios:
 
-- **4.1.1** Lançamento de Aplicação Nova ou Importante - estará sujeito a uma avaliação completa antes da aprovação da documentação de controle de mudanças e/ou implantação no ambiente de produção.
-- **4.1.2** Aplicação Web de Terceiros ou Adquirida - estará sujeita a uma avaliação completa, após a qual deverá cumprir os requisitos da política.
-- **4.1.3** Lançamentos de Atualização - estarão sujeitos a um nível apropriado de avaliação com base no risco das alterações na funcionalidade e/ou arquitetura da aplicação.
-- **4.1.4** Lançamentos de Patch - estarão sujeitos a um nível apropriado de avaliação com base no risco das alterações na funcionalidade e/ou arquitetura da aplicação.
-- **4.1.5** Lançamentos de Emergência - um lançamento de emergência poderá ser isento de avaliações de segurança e carregará o risco presumido até que uma avaliação adequada possa ser realizada. Os lançamentos de emergência serão designados como tais pelo Chief Information Officer ou por um gerente apropriado a quem tenha sido delegada essa autoridade.
-- **4.1.6** Revisão Anual - todas as aplicações estarão sujeitas a uma revisão anual completa em sua totalidade para avaliar os riscos potenciais da funcionalidade e/ou arquitetura.
+- #### 4.1.1 Lançamento de Aplicação Nova ou Importante - estará sujeito a uma avaliação completa antes da aprovação da documentação de controle de mudanças e/ou implantação no ambiente de produção.
+- #### 4.1.2 Aplicação Web de Terceiros ou Adquirida - estará sujeita a uma avaliação completa, após a qual deverá cumprir os requisitos da política.
+- #### 4.1.3 Lançamentos de Atualização - estarão sujeitos a um nível apropriado de avaliação com base no risco das alterações na funcionalidade e/ou arquitetura da aplicação.
+- #### 4.1.4 Lançamentos de Patch - estarão sujeitos a um nível apropriado de avaliação com base no risco das alterações na funcionalidade e/ou arquitetura da aplicação.
+- #### 4.1.5 Lançamentos de Emergência - um lançamento de emergência poderá ser isento de avaliações de segurança e carregará o risco presumido até que uma avaliação adequada possa ser realizada. Os lançamentos de emergência serão designados como tais pelo Chief Information Officer ou por um gerente apropriado a quem tenha sido delegada essa autoridade.
+- #### 4.1.6 Revisão Anual - todas as aplicações estarão sujeitas a uma revisão anual completa em sua totalidade para avaliar os riscos potenciais da funcionalidade e/ou arquitetura.
 
 ### 4.2 Todas as questões de segurança descobertas durante as avaliações devem ser mitigadas com base nos seguintes níveis de risco. Os Níveis de Risco são baseados na Metodologia de Classificação de Risco da OWASP. Serão necessários testes de validação da remediação para confirmar a correção e/ou estratégias de mitigação para quaisquer questões descobertas de nível Médio de risco ou superior.
 
-- **4.2.1** Alto - Qualquer questão de alto risco deve ser corrigida imediatamente ou outras estratégias de mitigação devem ser implementadas para limitar a exposição antes da implantação. Aplicações com questões de alto risco podem ser tiradas do ar ou negadas a liberação no ambiente de produção.
-- **4.2.2** Médio - Questões de médio risco devem ser revisadas para determinar o que é necessário para mitigá-las e programadas de acordo com isso. Aplicações com questões de médio risco podem ser tiradas do ar ou negadas a liberação no ambiente de produção com base no número de questões e se várias questões aumentam o risco a um nível inaceitável. As questões devem ser corrigidas em uma atualização de patch ou versão, a menos que outras estratégias de mitigação limitem a exposição.
-- **4.2.3** Baixo - A questão deve ser revisada para determinar o que é necessário para corrigir o problema e agendada de acordo com isso.
+- #### 4.2.1 Alto - Qualquer questão de alto risco deve ser corrigida imediatamente ou outras estratégias de mitigação devem ser implementadas para limitar a exposição antes da implantação. Aplicações com questões de alto risco podem ser tiradas do ar ou negadas a liberação no ambiente de produção.
+- #### 4.2.2 Médio - Questões de médio risco devem ser revisadas para determinar o que é necessário para mitigá-las e programadas de acordo com isso. Aplicações com questões de médio risco podem ser tiradas do ar ou negadas a liberação no ambiente de produção com base no número de questões e se várias questões aumentam o risco a um nível inaceitável. As questões devem ser corrigidas em uma atualização de patch ou versão, a menos que outras estratégias de mitigação limitem a exposição.
+- #### 4.2.3 Baixo - A questão deve ser revisada para determinar o que é necessário para corrigir o problema e agendada de acordo com isso.
 
 ### 4.3 Os seguintes níveis de avaliação de segurança de aplicações web devem ser estabelecidos pela organização InfoSec ou por outra organização designada que realizará as avaliações.
 
-- **4.3.1** Completa - Uma avaliação completa consiste em testes de todas as vulnerabilidades conhecidas de aplicações web, usando ferramentas automatizadas e manuais com base no Guia de Testes da OWASP. Uma avaliação completa utilizará técnicas manuais de teste de penetração para validar as vulnerabilidades descobertas a fim de determinar o risco geral de qualquer uma delas.
-- **4.3.2** Rápida - Uma avaliação rápida consistirá em uma verificação automatizada (geralmente) da aplicação em busca dos dez principais riscos de segurança de aplicações web da OWASP no mínimo.
-- **4.3.3** Direcionada - Uma avaliação direcionada é realizada para verificar alterações de remediação de vulnerabilidades ou novas funcionalidades da aplicação.
+- #### 4.3.1 Completa - Uma avaliação completa consiste em testes de todas as vulnerabilidades conhecidas de aplicações web, usando ferramentas automatizadas e manuais com base no Guia de Testes da OWASP. Uma avaliação completa utilizará técnicas manuais de teste de penetração para validar as vulnerabilidades descobertas a fim de determinar o risco geral de qualquer uma delas.
+- #### 4.3.2 Rápida - Uma avaliação rápida consistirá em uma verificação automatizada (geralmente) da aplicação em busca dos dez principais riscos de segurança de aplicações web da OWASP no mínimo.
+- #### 4.3.3 Direcionada - Uma avaliação direcionada é realizada para verificar alterações de remediação de vulnerabilidades ou novas funcionalidades da aplicação.
 
 ### 4.4 As ferramentas de avaliação de segurança de aplicações web atualmente aprovadas em uso e que serão utilizadas para testes são:
 

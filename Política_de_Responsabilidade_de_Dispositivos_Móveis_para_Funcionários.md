@@ -9,7 +9,7 @@
 ## 1. Visão Geral
 Veja o Objetivo.
 
-## 2. Objetivo
+## 2. Propósito
 Este documento descreve os requisitos de Segurança da Informação para os funcionários da <Nome da Empresa> que trabalham fora de um ambiente de escritório.
 
 ## 3. Abrangência
