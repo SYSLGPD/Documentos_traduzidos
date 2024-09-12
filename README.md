@@ -12,6 +12,6 @@ Este repositório contem a coleção de arquivos de segurança de dados disponí
 - [Olivia Oliva](https://github.com/oliviaoliva) (contribuição como Revisora).
 
 ## Para contribuir no repositório:
-Os arquivos estão sendo revisados para garantir qualidade linguística, formatação correta e uniformidade terminológica. Caso desejo contribuir com uma revisão faça isso via PR contendo o arquivo revisado segundo as necessidades do grupo.
+Os arquivos estão sendo revisados para garantir qualidade linguística, formatação correta e uniformidade terminológica. Caso deseje contribuir com uma revisão, faça isso via PR contendo o arquivo revisado segundo as necessidades do grupo.
 
-**Importante**: Não altere o nome dos arquivos a não ser que seja extremamente necessário, e nesse caso deixe isso explícito, pois os arquivos são referenciados no sistema pelo nome, o que pode impactar no seu funcionamento.
+**Importante**: não altere o nome dos arquivos a não ser que seja extremamente necessário, e nesse caso deixe isso explícito, pois os arquivos são referenciados no sistema pelo nome, o que pode impactar no seu funcionamento.
